@@ -22,3 +22,12 @@ reports/
 src/
 visuals/
 README.md
+
+## Dataset Files
+
+The original Airbnb datasets and processed datasets are not included in this repository due to file size limitations.
+
+Data source:
+https://insideairbnb.com/get-the-data/
+
+The analysis was performed using the New York City Airbnb dataset.
